@@ -10,30 +10,30 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Omar (Mexicutiioner)',
+  subtitle: 'Full Stack Developer / Video Editor',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'mexi.png',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://www.linkedin.com/in/omaralkhateeb99/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'UT LOGO OFFICIAL FINAL.png',
+    title: 'United Traders Introdocution Video',
+    info: 'An introduction video to the United Traders discord server I edited for our team.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://www.youtube.com/watch?v=EowrPspF-mA',
+    repo: 'https://www.youtube.com/watch?v=EowrPspF-mA', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
