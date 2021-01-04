@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'mexi.png',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'Hello, my name is Omar. I an individual that loves that work with anything that interests me. ',
+  paragraphTwo: 'Weather that is writing scripts, editing videos, or even trading.',
+  paragraphThree: 'Below are some projects I have built thus far.',
   resume: 'https://www.linkedin.com/in/omaralkhateeb99/', // if no resume, the button will not show up
 };
 
@@ -38,20 +38,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'WIP',
+    info: 'Future projects',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://github.com/omaralkha99',
+    repo: 'https://github.com/omaralkha99', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'WIP',
+    info: 'Future Projects',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://github.com/omaralkha99',
+    repo: 'https://github.com/omaralkha99', // if no repo, the button will not show up
   },
 ];
 
@@ -68,7 +68,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/Mexicutiioner',
     },
     {
       id: nanoid(),
@@ -78,12 +78,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/omaralkhateeb99/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/omaralkha99',
     },
   ],
 };
